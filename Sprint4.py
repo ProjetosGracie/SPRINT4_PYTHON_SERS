@@ -322,6 +322,7 @@ def conselho():
     else:
         print("Pode conectar mais ",pode," carros")
 
+# CRIA UM RELATORIO
 def criando_arquivo():
     dia = input("Informe a data: ")
     faturamento = calcular_faturamento()
